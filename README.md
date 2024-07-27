@@ -17,7 +17,7 @@ This repository provides a comprehensive collection of resources designed to gui
 
 #### **Getting Started**
 
-1. **Clone the Repository**: Start by cloning this repository to your local machine using `git clone https://github.com/yourusername/opencv-learning-hub.git`.
+1. **Clone the Repository**: Start by cloning this repository to your local machine using `git clone https://github.com/Bunnydavid27/Opencv.git`.
 2. **Explore the Tutorials**: Navigate to the `tutorials` directory to find beginner-friendly guides and in-depth explanations.
 3. **Run the Sample Code**: Check out the `samples` folder for code examples you can run and modify to better understand OpenCV functions.
 4. **Try the Projects**: Dive into the `projects` directory for hands-on learning opportunities and practical challenges.
